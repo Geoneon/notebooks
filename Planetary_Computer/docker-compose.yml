@@ -1,0 +1,14 @@
+services:
+    hub:
+        image: mcr.microsoft.com/planetary-computer/python:latest
+        ports:
+            - "8888:8888"
+        volumes:
+            - .:/home/cpoole
+        command: jupyter lab --ip 0.0.0.0
+
+    localserver:
+        image: python:3.9-alpine
+        ports:
+            - "8889:8889"
+        command: python3 -m "http.server" 8889 -d /opt/src

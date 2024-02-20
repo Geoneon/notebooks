@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gn_Busbys_Flat_AOI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 3, "fire_name": "Busby's flat", "year": 2019 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 152.739911970986441, -29.000024740795176 ], [ 152.858500435486832, -28.999843551391798 ], [ 152.858228651381779, -29.098410586820712 ], [ 152.738281266356182, -29.099225939135831 ], [ 152.739911970986441, -29.000024740795176 ] ] ] ] } }
+]
+}
