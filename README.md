@@ -1,9 +1,11 @@
 <img src="https://geoneon.com/hs-fs/hubfs/Asset-1-Wordmark%20Logo.png?width=767&name=Asset-1-Wordmark%20Logo.png" />
 
 # Geoneon Public Notebooks
+
 Welcome to the Geoneon Public Notebooks repository! 
 This collection is designed for researchers, data scientists, educators, and enthusiasts working in the 
 field of Earth observation (EO) and geospatial data analysis. 
+
 ---
 
 ## Contents
