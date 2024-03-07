@@ -33,7 +33,7 @@ The folder contains our public notebooks that demonstrate how to use the Planeta
 
 For more information on the Planetary Computer, visit the [Planetary Computer](https://planetarycomputer.microsoft.com/) website or [documentation](https://planetarycomputer.microsoft.com/docs/overview/about/).
 
-### [DEA](DEA)
+### [Digital Earth Australia (DEA)](DEA)
 The Digital Earth Australia (DEA) platform provides an open and freely accessible archive of Earth observation data for Australia.
 Coupled with a powerful and scalable computing environment to enable users to perform analysis on a wide range of data sources.
 
